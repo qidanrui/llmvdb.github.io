@@ -3,13 +3,10 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
-  <p>In conjunction with ICDE 2025 the 41th IEEE International Conference on Data Engineering</p>
+  <p>In conjunction with the 41th IEEE International Conference on Data Engineering (ICDE 2025)</p>
   <p><strong>Monday, May 19th</strong></p>
 
 news: true # includes a list of news items
-profile:
-  align: right
-  image_circular: true # crops the image to make it circular
 
 ---
 
