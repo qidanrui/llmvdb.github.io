@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: LLM + VDB
+title: LLM + VDB # the website title (if blank, full name will be used instead)
+first_name: LLM + VDB Workshop @ ICDE 2025
 middle_name: 
-last_name: Workshop
+last_name:
 email: llmvdb.workshop@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
