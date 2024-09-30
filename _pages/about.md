@@ -7,12 +7,12 @@ subtitle: Coupling of Large Language Models with Vector Data Management for Enha
 news: true # includes a list of news items
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hk.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    **Monday, May 19th**
+    **123 your address street**
+    **<p>**Your City, State 12345**
 
 ---
 
