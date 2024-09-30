@@ -1,6 +1,7 @@
 ---
-layout: about
+layout: home
 title: Home
+home_title: <b>LLM + VDB Workshop @ ICDE 2025</b>
 permalink: /
 subtitle: >
   <p>In conjunction with the 41th IEEE International Conference on Data Engineering (ICDE 2025)</p>
