@@ -3,19 +3,14 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
-  <h2>Coupling of Large Language Models with Vector Data Management for Enhancing Data Science</h2>
-  <h3>Subheading: Integrating AI Technologies</h3>
-  <h4>Focus Areas: Accuracy, Efficiency, Scalability</h4>
+  <p>In conjunction with ICDE 2025 the 41th IEEE International Conference on Data Engineering</p>
+  <p><strong>Monday, May 19th</strong></p>
 
 news: true # includes a list of news items
 profile:
   align: right
   image: hk.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><strong>Monday, May 19th</strong></p>
-    <p><strong>123 your address street</strong></p>
-    <p><strong>Your City, State 12345</strong></p>
+  image_circular: true # crops the image to make it circular
 
 ---
 
