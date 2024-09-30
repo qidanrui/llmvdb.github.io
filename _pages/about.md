@@ -2,7 +2,10 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Coupling of Large Language Models with Vector Data Management for Enhancing Data Science
+subtitle: >
+  <h2>Coupling of Large Language Models with Vector Data Management for Enhancing Data Science</h2>
+  <h3>Subheading: Integrating AI Technologies</h3>
+  <h4>Focus Areas: Accuracy, Efficiency, Scalability</h4>
 
 news: true # includes a list of news items
 profile:
@@ -10,9 +13,9 @@ profile:
   image: hk.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    **Monday, May 19th**
-    **123 your address street**
-    **<p>**Your City, State 12345**
+    <p><strong>Monday, May 19th</strong></p>
+    <p><strong>123 your address street</strong></p>
+    <p><strong>Your City, State 12345</strong></p>
 
 ---
 
