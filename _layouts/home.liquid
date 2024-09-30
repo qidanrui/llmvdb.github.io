@@ -1,23 +1,54 @@
 ---
 layout: default
 ---
-<div class="post">
 
+<!-- about.html -->
+<div class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ page.desc_title }}</h1>
-    <h5 class="post-description">{{ page.description }}</h5>
+    <h1 class="post-title">  {{ page.home_title }}  </h1>    
+    <h4 class="post-title"> {{ page.subtitle }} </h4>
+    <p class="post-description">{{ page.description }}</p>
   </header>
 
-  <article class="post-content {{page.title}} clearfix">
-    {{ content }}
+  <article>
+    <div class="post-content clearfix">
+      {{ content }}
+    </div>   
+      <!-- News -->
+    {% if page.news and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+
+    <!-- Latest posts -->
+    {% if site.latest_posts.enabled %}
+      <h2>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+      </h2>
+      {% include latest_posts.liquid %}
+    {% endif %}
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
+
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
+
+    {% if site.newsletter.enabled and site.footer_fixed %}
+      {% include scripts/newsletter.liquid center=true %}
+    {% endif %}
   </article>
-
-  {% if page.news %}
-    {% include news.html %}
-  {% endif %}
-
-  {% if page.social %}
-    {% include social.html %}
-  {% endif %}
-
 </div>

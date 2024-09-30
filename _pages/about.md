@@ -1,6 +1,7 @@
 ---
-layout: about
+layout: home
 title: Home
+home_title: LLM + VDB Workshop
 permalink: /
 subtitle: >
   <p>In conjunction with ICDE 2025 the 41th IEEE International Conference on Data Engineering</p>
@@ -9,7 +10,6 @@ subtitle: >
 news: true # includes a list of news items
 profile:
   align: right
-  image: hk.jpg
   image_circular: true # crops the image to make it circular
 
 ---
