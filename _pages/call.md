@@ -24,12 +24,6 @@ We invite researchers from machine learning and related fields to submit their l
   - Image/video editing
   - Science and engineering applications
 
-## Important Dates
-
-*   Submission Deadline: ~~September 29th, 2023~~ Extension!. October 3rd 23:59 GMT
-*   Acceptance Notification: October 27th, 2023
-<!-- *   Camera-Ready Deadline for Accepted Submissions: `TBD` -->
-
 ## Submission Details
 
 To ensure your submission is considered, please adhere to the following guidelines:
@@ -44,4 +38,4 @@ To submit your work, please visit the **[OpenReview submission website](https://
 
 ## Questions
 
-If you have any questions, please do not hesitate to contact us at [diffusion.workshop.2023@gmail.com](mailto:diffusion.workshop.2023@gmail.com).
+If you have any questions, please do not hesitate to contact us at [llmvdb.workshop@gmail.com](mailto:llmvdb.workshop@gmail.com).
