@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-**Moday May 19th 2024, Hall B1 (level 1)**
+**Moday May 19th 2025, Hall B1 (level 1)**
 
 
 | **Time (CST)** | **Event** |
