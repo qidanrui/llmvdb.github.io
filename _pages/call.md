@@ -39,9 +39,9 @@ To ensure your submission is considered, please adhere to the following guidelin
 *   **Dual Submission Policy**: If the submission was accepted at prior conferences, journal, or workshops (including Neurips 2023), it should be extended to be considered for acceptance at our workshop. Papers that are currently under review are welcome to be submitted to our workshop.
 *   If your paper is accepted it will not appear in any proceedings, journal, or book. We will post the list of accepted papers on the workshop website.
 
-To submit your work, please visit the **[OpenReview submission website](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Diffusion)**.
+To submit your work, please visit the **[CMT submission website](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Diffusion)**.
 
 
 ## Questions
 
-If you have any questions, please do not hesitate to contact us at [diffusion.workshop.2023@gmail.com](mailto:diffusion.workshop.2023@gmail.com).
+If you have any questions, please do not hesitate to contact us at [llmvdb.workshop@gmail.com](mailto:llmvdb.workshop@gmail.com).

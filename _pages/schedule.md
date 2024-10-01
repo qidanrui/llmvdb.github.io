@@ -6,10 +6,8 @@ description:
 nav: true
 nav_order: 2
 ---
-**Friday 15th December 2023, Hall B1 (level 1)**
+**Moday May 19th 2024, Hall B1 (level 1)**
 
-Ask questions to our panelists  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTRsWFvKlsFg31K8Vq6hHGOydmvd7YNMuOLOCcKgqSqO8mXw/viewform">here</a>
-    
 
 | **Time (CST)** | **Event** |
 | :------:   | :------- |
