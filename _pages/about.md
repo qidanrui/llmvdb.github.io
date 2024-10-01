@@ -1,10 +1,9 @@
 ---
-layout: home
-nav_title: Home
-home_title: LLM + VDB Workshop @ ICDE 2025
+layout: about
+title: Home
 permalink: /
 subtitle: >
-  <h2>Coupling of Large Language Models with Vector Data Management for Enhancing Data Science</h2>
+  <h3>Coupling of Large Language Models with Vector Data Management for Enhancing Data Science</h3>
   <p>In conjunction with the 41th IEEE International Conference on Data Engineering (ICDE 2025)</p>
   <p><strong>Monday, May 19th 2024, Hong Kong, China</strong></p>
 

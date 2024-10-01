@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: organizers
 permalink: /organizers/
-title: organizers
+title: Organizers
 page_title: Organizers
 description:
 nav: true
@@ -14,7 +14,7 @@ nav_order: 3
     <h4>[Yao Tian](https://www.ustyaotian.com)
       <a href="mailto:bombini@fi.infn.it" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
     </h4>
-    <p> INFN-Firenze </p>
+    <p> The Hong Kong University of Science and Technology </p>
   </div>
   <p class="bio">
     is currently a 4th-year Ph.D. candidate in the Department of Computer Sci-ence and Engineering (CSE), at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. Xiaofang Zhou. She earned her Master’s and Bachelor’s de-grees in Mathematics from Zhejiang University and Sichuan University, respectively. Her research interests include vector databases, such as approximate nearest neighbor search, hybrid search, and multi-modal search, as well as machine learning for databases, including learned index, learned filter, and learned optimizer. She has contributed to several publications on these topics in SIGMOD, VLDB, ICDE, and TKDE.
