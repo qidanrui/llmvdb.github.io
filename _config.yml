@@ -4,7 +4,7 @@
 
 title: blank  # the website title (if blank, full name will be used instead)
 first_name: LLM + VDB Workshop
-middle_name:  @ 
+middle_name: "@" 
 last_name: ICDE 2025
 email: llmvdb.workshop@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -205,7 +205,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
