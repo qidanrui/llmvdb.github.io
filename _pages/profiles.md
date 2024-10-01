@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /talks/
-title: Invited Talks
+permalink: /people/
+title: Organizers
 nav: true
 nav_order: 7
 
