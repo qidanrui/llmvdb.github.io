@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
-  <h4>Coupling of Large Language Models with Vector Data Management for Enhancing Data Science</h4>
+  <p>Coupling of Large Language Models with Vector Data Management for Enhancing Data Science</p>
   <p>In conjunction with the 41th IEEE International Conference on Data Engineering (ICDE 2025)</p>
   <p><strong>Monday, May 19th 2024, Hong Kong, China</strong></p>
 
