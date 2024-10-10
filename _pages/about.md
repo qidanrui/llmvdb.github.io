@@ -1,9 +1,9 @@
 ---
+<div style="text-align: center;">
+  <img src="/assets/img/logo.jpg" alt="Logo" style="margin-top: 20px;">
+</div>
 layout: about
 title: Home
-  <div style="text-align: center;">
-    <img src="/assets/img/logo.jpg" alt="Logo" style="margin-top: 20px;">
-  </div>
 permalink: /
 subtitle: >
   <p style="font-size: 18px;">International Workshop on Coupling of Large Language Models with Vector Data Management</p>
