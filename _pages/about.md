@@ -7,11 +7,6 @@ subtitle: >
   <p>In conjunction with the 41th IEEE International Conference on Data Engineering (ICDE 2025)</p>
   <p><strong>Monday, May 19th 2025, Hong Kong, China</strong></p>
 
-profile:
-  align: top
-  image: logo.jpg
-  image_circular: false # crops the image to make it circular
-
 news: true # includes a list of news items
 
 ---
