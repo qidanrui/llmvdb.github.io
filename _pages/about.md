@@ -1,7 +1,4 @@
 ---
-<div style="text-align: center;">
-  <img src="/assets/img/logo.jpg" alt="Logo" style="margin-top: 20px;">
-</div>
 layout: about
 title: Home
 permalink: /
