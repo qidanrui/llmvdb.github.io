@@ -4,8 +4,8 @@ title: Home
 permalink: /
 subtitle: >
   <div style="text-align: center;">
-    <p style="font-size: 18px;">LLM + Vector Data @ ICDE 2025</p>
     <img src="/assets/img/logo.jpg" alt="Logo" style="margin-top: 20px;">
+    <p style="font-size: 18px;">LLM + Vector Data @ ICDE 2025</p>
   </div>
   <p style="font-size: 18px;">International Workshop on Coupling of Large Language Models with Vector Data Management</p>
   <p>In conjunction with the 41th IEEE International Conference on Data Engineering (ICDE 2025)</p>
