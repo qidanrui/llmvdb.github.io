@@ -6,7 +6,11 @@ subtitle: >
   <p style="font-size: 18px;">International Workshop on Coupling of Large Language Models with Vector Data Management</p>
   <p>In conjunction with the 41th IEEE International Conference on Data Engineering (ICDE 2025)</p>
   <p><strong>Monday, May 19th 2025, Hong Kong, China</strong></p>
-
+profile:
+  align: right
+  image: mylogo.jpg
+  image_circular: false # crops the image to make it circular
+  
 news: true # includes a list of news items
 
 ---
