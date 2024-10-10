@@ -63,6 +63,16 @@
     display: none;
   }
 
+  .header-background .img {
+    background-image: url("../img/ICLR-logo.png");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center bottom;
+    height: 12em;
+    margin-bottom: 0em;
+    margin-top: -2.7em;  
+  }
+
   #back-to-top {
     color: var(--global-back-to-top-text-color);
     background: var(--global-back-to-top-bg-color);
