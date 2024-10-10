@@ -75,9 +75,9 @@
 }
 
 .header-background .img {
-  background-image: url("logo.jpg");
+  background-image: url("../img/logo.jpg");
   background-repeat: no-repeat;
-  background-size: 400px;
+  background-size: cover;
   background-position: center bottom;
   height: 12em;
   margin-bottom: 0em;
@@ -166,9 +166,9 @@ html[data-theme-setting="light"] {
   }
 
  .header-background .img {
-  background-image: url("logo.jpg");
+  background-image: url("../img/logo.jpg");
   background-repeat: no-repeat;
-  background-size: 400px;
+  background-size: cover;
   background-position: center bottom;
   height: 12em;
   margin-bottom: 0em;
