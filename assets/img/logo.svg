@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 64">
+        <!-- Gradient Definition -->
+        <defs>
+            <linearGradient id="cold-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" style="stop-color:#2193b0;stop-opacity:1"></stop> <!-- Ice Blue -->
+                <stop offset="100%" style="stop-color:#1BFFFF;stop-opacity:1"></stop> <!-- Sky Blue -->
+            </linearGradient>                                                       
+        </defs>
+        <!-- Background Rectangle -->
+        <rect width="200" height="64" class="background"></rect>
+        <!-- Text Elements -->
+        <text class="highlight text-large" x="5" y="30">LLM </text>
+        <text class="highlight text-large" x="55" y="30">+</text>
+        <text class="highlight text-large" x="70" y="30">Vector Data</text>
+        <text x="100" y="50" class="text-small">Hong Kong SAR, China</text>
+    </svg>

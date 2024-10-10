@@ -26,9 +26,9 @@ We invite researchers from machine learning and related fields to submit their l
 
 ## Important Dates
 
-*   Submission Deadline: ~~September 29th, 2023~~ Extension!. October 3rd 23:59 GMT
-*   Acceptance Notification: October 27th, 2023
-<!-- *   Camera-Ready Deadline for Accepted Submissions: `TBD` -->
+*   Submission Deadline: January 15， 2025
+*   Acceptance Notification: February 28, 2025
+*   Camera-Ready Version Deadline: March 21, 2025 
 
 ## Submission Details
 
