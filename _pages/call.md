@@ -9,7 +9,6 @@ nav_order: 3
 ## Topics
 
 We invite researchers from database, machine learning and related fields to submit their latest work on LLM and vector data to the workshop. We encourage submissions related (but not limited) to the following topics:
-* Theory and methodology of diffusion models
 * xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 * *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 * xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
