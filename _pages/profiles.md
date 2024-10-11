@@ -25,12 +25,12 @@ profiles:
       <a href="https://wyxlss.github.io/" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
   
   - align: left
-    image: prof_pic.jpg
+    image: zwx.jpg
     content: about_zwx.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <a href="mailto:ytianbc@cse.ust.hk" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>
-      <a href="https://www.ustyaotian.com" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
+      <a href="mailto:zjwzrazwx@gmail.com" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>
+      <a href="https://hoomsday.github.io/" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
 
   - align: left
     image: ty.jpg
