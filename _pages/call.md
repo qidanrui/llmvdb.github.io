@@ -2,18 +2,18 @@
 layout: page
 permalink: /submissions/
 title: Call for Papers
-description: We invite researchers in diffusion models to submit their latest work to our workshop. Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
+description: 
 nav: true
 nav_order: 3
 ---
 ## Topics
 
-We invite researchers from database, machine learning and related fields to submit their latest work on LLM and vector data to the workshop. We encourage submissions related (but not limited) to the following topics:
+We welcome researchers from the fields of databases, machine learning, and related disciplines to submit their latest work to our workshop. We especially encourage submissions on, but not limited to, the following topics:
 * xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-* *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 * xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-* *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-* *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 * xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Important Dates
