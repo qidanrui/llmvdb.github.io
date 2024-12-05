@@ -47,9 +47,11 @@ profiles:
     more_info: >
       <a href="mailto:tamer.ozsu@uwaterloo.ca" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>
       <a href="https://cs.uwaterloo.ca/~tozsu/ " title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
+ 
 
 
-### Technical program committee
+
+## Technical program committee
 
 - Matteo Barbetti (University of Firenze, INFN-Firenze)
 - Alessandro Bombini (INFN-Firenze)
