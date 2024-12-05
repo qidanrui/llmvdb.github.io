@@ -52,13 +52,12 @@ profiles:
 ---
 
 
-## Technical program committee
+### Program committee Members
 
-- Matteo Barbetti (University of Firenze, INFN-Firenze)
-- Alessandro Bombini (INFN-Firenze)
-- Benedetta Camaiani (University of Firenze, INFN-Firenze)
-- Lisa Castelli (INFN-Firenze)
-- Stefano Dal Pra (INFN-CNAF)
-- Fernando Garcia Avello-Bofias (INFN-Firenze)
-- Luca Giommi (INFN-CNAF)
-- Francesca Lizzi (INFN-Pisa)
+- Rajesh Bordawekar (IBM, USA)
+- Yixiang Fang (CUHK, Hong Kong, China)
+- Cheng Long (Nanyang Technological University, Singapore)
+- Peter Pietzuch (Imperial College London, UK)
+- Harsha Vardhan Simhadri (Microsoft, USA)
+- Mengzhao Wang (Zhejiang University, China) 
+- Wenjie Zhang (The University of New South Wales, Australia) 
