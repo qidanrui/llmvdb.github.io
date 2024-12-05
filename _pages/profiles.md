@@ -49,6 +49,7 @@ profiles:
       <a href="https://cs.uwaterloo.ca/~tozsu/ " title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
  
 
+---
 
 
 ## Technical program committee
@@ -61,5 +62,3 @@ profiles:
 - Fernando Garcia Avello-Bofias (INFN-Firenze)
 - Luca Giommi (INFN-CNAF)
 - Francesca Lizzi (INFN-Pisa)
-
----
