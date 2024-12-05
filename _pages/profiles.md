@@ -52,7 +52,7 @@ profiles:
 ---
 
 
-### Program committee Members
+### Program Committee Members
 
 - Rajesh Bordawekar (IBM, USA)
 - Yixiang Fang (CUHK, Hong Kong, China)
