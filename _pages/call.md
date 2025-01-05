@@ -25,6 +25,7 @@ We welcome researchers from the fields of databases, machine learning, and relat
 * Data Management Challenges and Future Directions for LLMs + Vector Databases
 
 ## Important Dates
+All deadlines below are 11:59 p.m. PT (Pacific Time).
 
 *   Submission Deadline: February 05, 2025
 *   Acceptance Notification: March 05, 2025
