@@ -27,9 +27,9 @@ We welcome researchers from the fields of databases, machine learning, and relat
 ## Important Dates
 All deadlines below are 11:59 p.m. PT (Pacific Time).
 
-*   Submission Deadline: February 05, 2025
-*   Acceptance Notification: March 05, 2025
-*   Camera-Ready Version Deadline: March 21, 2025 
+*   Submission Deadline: ~~February 05, 2025~~ February 19, 2025
+*   Acceptance Notification: ~~March 05, 2025~~ March 19, 2025
+*   Camera-Ready Version Deadline: ~~March 21, 2025~~  April 4, 2025
 
 ## Submission Guidelines
 
