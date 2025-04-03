@@ -1,4 +1,4 @@
-<!--
+
 ---
 layout: page
 permalink: /schedule/
@@ -39,4 +39,3 @@ Ask questions to our panelists  <a href="https://docs.google.com/forms/d/e/1FAIp
   <img src="/assets/img/todo-v2.png" alt="" />
   <p></p>
 </div>
--->
