@@ -1,8 +1,7 @@
-
 ---
 layout: page
 permalink: /schedule/
-title: Schedule
+title: Program
 description:
 nav: true
 nav_order: 2
@@ -24,8 +23,8 @@ nav_order: 2
 | 14:30 - 14:50 | **Paper Presentation 1** - <br/> Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering <br/> Jiaxiang Liu (University of Chinese Academy of Sciences); Tong Zhou (Institute of Automation, Chinese Academy of Sciences); Yubo Chen (Institute of Automation, Chinese Academy of Sciences); Jun Zhao (Institute of Automation, Chinese Academy of Sciences); Kang Liu (Institute of Automation, Chinese Academy of Sciences) |
 | 14:50 - 15:10 | **Paper Presentation 2** - <br/> LLM-MS: A Multi-Model LLM Search Engine <br/> Stelios Christou (University of Cyprus); Konstantin Krasovitskiy (University of Cyprus); Demetrios Zeinalipour-Yazti (University of Cyprus)|
 | 14:10 - 15:30 | **Paper Presentation 3** - <br/> Making Cluster-based Vector Index Scalable with Transactions <br/> Masaru Uchida (Keio University); Hideyuki Kawashima (Keio University)|
-| 15:00 - 15:15 | **Coffee Break**|
-| 15:15 - 16:15 | **Invited Lightning Talks** <br/> Holden Lee: Convergence theory for diffusion models <br/> Hyungjin Chung: Adapting diffusion models for inverse problems <br/> Shuang Li: Compositional Visual Generation <br/> Gowthami Somepalli:  Understanding and mitigating |
+| 16:00 - 17:30 | **Panel Discussion**|
+| 15:15 - 16:15 | **Panel** - Retrieval-augmented Generation (RAG): What is There for Data Management Researchers? <br/> Holden Lee: Convergence theory for diffusion models <br/> Hyungjin Chung: Adapting diffusion models for inverse problems <br/> Shuang Li: Compositional Visual Generation <br/> Gowthami Somepalli:  Understanding and mitigating |
 | 16:15 - 17:15 | **Poster Session 2** |
 | 17:15 - 17:30 | **Closing Remarks + Award Reveal** |
 {: .table}
