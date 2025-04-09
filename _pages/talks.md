@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: profiles2
 permalink: /talks/
 title: Talks
 nav: true
@@ -10,11 +10,10 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: zxf.jpg
-    content: about_einstein.md
+    content: about_zxf.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <a href="mailto:Arijit@cs.aau.dk" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>
-      <a href="https://homes.cs.aau.dk/~Arijit/" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
+      <a href="https://sites.google.com/view/xiaofang-zhou" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
 
   - align: left
     image: prof_pic.jpg
