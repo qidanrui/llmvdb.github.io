@@ -12,15 +12,14 @@ profiles:
     image: zxf.jpg
     content: about_zxf.md
     image_circular: false # crops the image to make it circular
-
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    more_info: >
+      <a href="https://sites.google.com/view/xiaofang-zhou" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
+  - align: right
+    image: zmq.jpg
+    content: about_zmq.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    <a href="https://www.linkedin.com/in/mingqi-zhou-517637181/?originalSubdomain=ie" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
 
 
 ---

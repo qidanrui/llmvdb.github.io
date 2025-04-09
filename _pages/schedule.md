@@ -14,7 +14,7 @@ nav_order: 2
 | **Session 1 (1.5 hours)** |
 | 9:00-9:30 | **Industry Talk 1** - Shihai Xiao, Huawei|
 | 9:30-10:00 | **Invited Talk 1** - Yuyu Luo, The Hong Kong University of Science and Technology (Guangzhou) |
-| 10:00-10:30 | **Industry Talk 2** - Minqi Zhou, Huawei|
+| 10:00-10:30 | **Industry Talk 2 - The Challenges of Personal Data Management System for Agentic AI on AIphones** <br/>Minqi Zhou, Huawei|
 | **Session 2 (1.5 hours)** |
 | 10:30-11:15 | **Keynote 1 - Beyond Embeddings: Data Management for LLMs in the Era of RAG and Personal AI** <br/>Xiaofang Zhou, The Hong Kong University of Science and Technology|
 | 11:15-12:00 | **Keynote 2** - Wenjie Zhang, University of New South Wales|
