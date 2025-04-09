@@ -19,7 +19,7 @@ profiles:
     content: about_zmq.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <a href="https://www.linkedin.com/in/mingqi-zhou-517637181/?originalSubdomain=ie" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
+      <a href="https://www.linkedin.com/in/mingqi-zhou-517637181/?originalSubdomain=ie" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
 
 
 ---
