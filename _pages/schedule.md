@@ -12,8 +12,8 @@ nav_order: 2
 | **Time (HKT)** | **Event** |
 | :----------:   | :------- |
 | **Session 1 (1.5 hours)** |
-| 9:00-9:30 | **Industry Talk 1** - Shihai Xiao, Huawei|
-| 9:30-10:00 | **Invited Talk 1** - Yuyu Luo, The Hong Kong University of Science and Technology (Guangzhou) |
+| 9:00-9:30 | **Industry Talk 1 - Connecting Academic Research and Enterprises, Sharing Experience of Cooperation in the Field of Vector Search** <br/>Shihai Xiao, Huawei|
+| 9:30-10:00 | **Invited Talk 1 - Bridging Humans and Databases: Democratizing Database Interfaces with Reasoning Agents** <br/>Yuyu Luo, The Hong Kong University of Science and Technology (Guangzhou) |
 | 10:00-10:30 | **Industry Talk 2 - The Challenges of Personal Data Management System for Agentic AI on AIphones** <br/>Minqi Zhou, Huawei|
 | **Session 2 (1.5 hours)** |
 | 10:30-11:15 | **Keynote 1 - Beyond Embeddings: Data Management for LLMs in the Era of RAG and Personal AI** <br/>Xiaofang Zhou, The Hong Kong University of Science and Technology|

@@ -15,6 +15,18 @@ profiles:
     more_info: >
       <a href="https://sites.google.com/view/xiaofang-zhou" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
   - align: right
+    image: prof_pic.jpg
+    content: about_xsh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <a href=""><i class="fas fa-home" style="margin-left: 5px;"></i></a>   
+  - align: left
+    image: zmq.jpg
+    content: about_lyy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <a href="https://luoyuyu.vip/" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>   
+  - align: right
     image: zmq.jpg
     content: about_zmq.md
     image_circular: false # crops the image to make it circular
