@@ -20,11 +20,11 @@ nav_order: 2
 | 11:15-12:00 | **[Keynote 2 - Towards Bridging Maximum Inner Product and Nearest Neighbor Search](/talks/)** <br/>Wenjie Zhang, University of New South Wales|
 | **Session 3 (1.5 hours)** |
 | 14:00-14:30 | **[Invited Talk 2 - Towards Bridging Maximum Inner Product and Nearest Neighbor Search](/talks/)** <br/> Xiangyu Ke, Zhejiang University|
-| 14:30-14:50 | **Paper Presentation 1** - Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering <br/> Jiaxiang Liu (University of Chinese Academy of Sciences), Tong Zhou (Institute of Automation, Chinese Academy of Sciences), Yubo Chen (Institute of Automation, Chinese Academy of Sciences), Jun Zhao (Institute of Automation, Chinese Academy of Sciences), Kang Liu (Institute of Automation, Chinese Academy of Sciences) |
-| 14:50-15:10 | **Paper Presentation 2** - LLM-MS: A Multi-Model LLM Search Engine <br/> Stelios Christou (University of Cyprus), Konstantin Krasovitskiy (University of Cyprus), Demetrios Zeinalipour-Yazti (University of Cyprus)|
-| 14:10-15:30 | **Paper Presentation 3** - Making Cluster-based Vector Index Scalable with Transactions <br/> Masaru Uchida (Keio University), Hideyuki Kawashima (Keio University)|
+| 14:30-14:50 | **Paper Presentation 1 - Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering**  <br/> Jiaxiang Liu (University of Chinese Academy of Sciences), Tong Zhou (Institute of Automation, Chinese Academy of Sciences), Yubo Chen (Institute of Automation, Chinese Academy of Sciences), Jun Zhao (Institute of Automation, Chinese Academy of Sciences), Kang Liu (Institute of Automation, Chinese Academy of Sciences) |
+| 14:50-15:10 | **Paper Presentation 2 - LLM-MS: A Multi-Model LLM Search Engine**  <br/> Stelios Christou (University of Cyprus), Konstantin Krasovitskiy (University of Cyprus), Demetrios Zeinalipour-Yazti (University of Cyprus)|
+| 14:10-15:30 | **Paper Presentation 3 - Making Cluster-based Vector Index Scalable with Transactions**  <br/> Masaru Uchida (Keio University), Hideyuki Kawashima (Keio University)|
 | **Session 4 (1.5 hours)** |
-| 16:00-17:30 | **Panel Discussion** - Retrieval-augmented Generation (RAG): What is There for Data Management Researchers? <br/> Panelists: Xiaofang Zhou, Wenjie Zhang, Shihai Xiao,  Minqi Zhou, Yuyu Luo, Xiangyu Ke|
+| 16:00-17:30 | **Panel Discussion - Retrieval-augmented Generation (RAG): What is There for Data Management Researchers?**  <br/> Panelists: Xiaofang Zhou, Wenjie Zhang, Shihai Xiao,  Minqi Zhou, Yuyu Luo, Xiangyu Ke|
 {: .table}
 {: .table-striped}
 
