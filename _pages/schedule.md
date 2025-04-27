@@ -6,8 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-**Monday, May 19th 2025**
-**Refer to [Talks](/talks/) for more details**    
+**Monday, May 19th 2025, refer to [Talks](/talks/) for more details**    
 
 | **Time (HKT)** | **Event** |
 | :----------:   | :------- |
