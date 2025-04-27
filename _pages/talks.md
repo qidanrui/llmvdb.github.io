@@ -25,7 +25,7 @@ profiles:
     content: about_xsh.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <a href=""><i class="fas fa-home" style="margin-left: 5px;"></i></a>   
+      <a href="https://ieeexplore.ieee.org/author/37090088814"><i class="fas fa-home" style="margin-left: 5px;"></i></a>   
   - align: right
     image: lyy.jpg
     content: about_lyy.md
