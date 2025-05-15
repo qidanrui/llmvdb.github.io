@@ -1,5 +1,5 @@
 **Title:**
-<br/> Graph-Enhanced LLMs for Reasoning and Mixed-Type Data Imputation
+<br/> Beyond Text: Graph-Enhanced LLMs for Reasoning and Mixed-Type Data Imputation
 
 
 **Abstract:**

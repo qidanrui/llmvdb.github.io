@@ -16,7 +16,7 @@ nav_order: 2
 | 10:00-10:30 | **[Industry Talk 2 - The Challenges of Personal Data Management System for Agentic AI on AIphones](/talks/)** <br/>Minqi Zhou, Huawei|
 | **Session 2 (1.5 hours)** |
 | 10:30-11:15 | **[Keynote 1 - Beyond Embeddings: Data Management for LLMs in the Era of RAG and Personal AI](/talks/)** <br/>Xiaofang Zhou, The Hong Kong University of Science and Technology|
-| 11:15-12:00 | **[Keynote 2 - Towards Bridging Maximum Inner Product and Nearest Neighbor Search](/talks/)** <br/>Wenjie Zhang, University of New South Wales|
+| 11:15-12:00 | **[Keynote 2 - Beyond Text: Graph-Enhanced LLMs for Reasoning and Mixed-Type Data Imputation](/talks/)** <br/>Wenjie Zhang, University of New South Wales|
 | **Session 3 (1.5 hours)** |
 | 14:00-14:30 | **[Invited Talk 2 - Towards Bridging Maximum Inner Product and Nearest Neighbor Search](/talks/)** <br/> Xiangyu Ke, Zhejiang University|
 | 14:30-14:50 | **Paper Presentation 1 - Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering**  <br/> Jiaxiang Liu (University of Chinese Academy of Sciences), Tong Zhou (Institute of Automation, Chinese Academy of Sciences), Yubo Chen (Institute of Automation, Chinese Academy of Sciences), Jun Zhao (Institute of Automation, Chinese Academy of Sciences), Kang Liu (Institute of Automation, Chinese Academy of Sciences) |
