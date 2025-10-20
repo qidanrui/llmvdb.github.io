@@ -1,0 +1,10 @@
+**Title:**
+<br/> Beyond Embeddings: Data Management for LLMs in the Era of RAG and Personal AI
+
+
+**Abstract:**
+<br/>In this presentation, we will share insights into data management for Large Language Models (LLMs), focusing on high-dimensional vector data in state-of-the-art LLMs. We begin by examining the spectrum of vector data involved in a comprehensive LLM system—covering both internal representations (e.g., embeddings, KV caches) and external vector stores (e.g., for retrieval). We will discuss why managing vector data is essential and highlight relevant techniques. Next, we turn to the Retrieval-Augmented Generation (RAG) framework, particularly its reliance on high-dimensional vector search. We will present our research on efficient search algorithms and index structures for large-scale vector data, emphasizing how these solutions support RAG use cases. Finally, we address new challenges posed by the latest developments in the LLM community, including personalized AI running on resource-constrained hardware and the implications of long-context-window LLMs. We will discuss strategies to balance performance and energy efficiency while integrating these cutting-edge LLM architectures with robust vector data management solutions.
+
+
+**Bio:**
+<br/>Professor Xiaofang Zhou holds the Otto Poon Professorship in Engineering and is a Chair Professor of Computer Science and Engineering at HKUST, where he leads the Department of Computer Science and Engineering. His work spans database systems, data quality management, big data analytics, machine learning, and AI. He was Program Committee Chair for IEEE ICDE 2013, ACM CIKM 2016, and PVLDB 2020, and was General Chair for ICDE 2025 and ACM MM 2015. Before HKUST, he was a Professor of Computer Science at The University of Queensland, heading its Data Science discipline. He is a Global STEM Scholar and an IEEE Fellow.
