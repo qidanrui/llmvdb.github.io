@@ -6,7 +6,10 @@ description:
 nav: true
 nav_order: 2
 ---
-**Monday, May 19th 2025, refer to [Talks](/talks/) for more details**    
+**TBD (To Be Determined)**
+
+<!--
+**Monday, May 19th 2025, refer to [Talks](/talks/) for more details**
 
 | **Time (HKT)** | **Event** |
 | :----------:   | :------- |
@@ -33,3 +36,4 @@ nav_order: 2
   <img src="/assets/img/todo-v2.png" alt="" />
   <p></p>
 </div>
+-->

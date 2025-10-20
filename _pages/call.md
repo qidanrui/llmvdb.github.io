@@ -27,9 +27,16 @@ We welcome researchers from the fields of databases, machine learning, and relat
 ## Important Dates
 All deadlines below are 11:59 p.m. PT (Pacific Time).
 
+*   Submission Deadline: January 15, 2026
+*   Acceptance Notification: February 20, 2026
+*   Camera-Ready Version Deadline: March 9, 2026
+
+<!--
+Previous deadlines (ICDE 2025):
 *   Submission Deadline: ~~February 05, 2025~~ February 19, 2025
 *   Acceptance Notification: ~~March 05, 2025~~ March 19, 2025
 *   Camera-Ready Version Deadline: ~~March 21, 2025~~  April 4, 2025
+-->
 
 ## Submission Guidelines
 
