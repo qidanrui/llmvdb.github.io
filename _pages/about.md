@@ -1,6 +1,6 @@
 ---
 layout: about
-title: LLM + Vector Data @ ICDE 2026
+title: Home
 permalink: /
 subtitle: >
   <p style="font-size: 18px;">International Workshop on Coupling of Large Language Models with Vector Data Management</p>
