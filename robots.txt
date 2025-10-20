@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://llmvdb.github.io/sitemap.xml
+Sitemap: https://qidanrui.github.io/llmvdb.github.io/sitemap.xml
