@@ -13,7 +13,7 @@ profiles:
     content: about_ak.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <a href="https://scholar.google.com/citations?user=6Y-m8k4AAAAJ&hl=en" title="Google Scholar"><i class="fas fa-graduation-cap" style="margin-left: 5px;"></i></a>
+      <a href="https://www.cs.bgsu.edu/arijitk/" title="Homepage"><i class="fas fa-home" style="margin-left: 5px;"></i></a>
 
   - align: left
     image: lyy.jpg

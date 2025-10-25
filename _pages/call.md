@@ -13,6 +13,7 @@ We welcome researchers from the fields of databases, machine learning, and relat
 * Vector Data Management for LLMs
 * Optimizing Vector Databases with LLMs (e.g., Algorithms, Systems, etc.)
 * Vector Retrieval-Augmented Generation (RAG) for Enhancing LLM
+* AI Agents and Agentic RAG
 * Architecture for LLMs + Vector Databases
 * Training, Fine-tuning, and In-context Learning for LLMs + Vector Databases
 * Cost, Efficiency, Accuracy, and Scalability of LLMs + Vector Databases
@@ -46,9 +47,9 @@ To ensure your submission is considered, please adhere to the following guidelin
 *   **Dual Submission Policy**: A paper submitted to LLM + Vector Data workshop cannot be under review for any other conference or journal during the entire time and it must be original work not described in any prior publication. A prior publication is a paper that has been accepted for presentation at a refereed conference or workshop with proceedings; or an article that has been accepted for publication in a refereed journal. 
 *   **Reviews**: The review process will be single-blind.
 
-To submit your work, please visit the **[CMT submission website](https://cmt3.research.microsoft.com/LLMVD2025)**.
+To submit your work, please visit the **[CMT submission website](https://cmt3.research.microsoft.com/LLMVD2026)**.
 
 
 ## Questions
 
-If you have any questions, please do not hesitate to contact us at [llmvdb.workshop@gmail.com](mailto:llmvdb.workshop@gmail.com).
+If you have any questions, please do not hesitate to contact us at [llmvdb2.workshop@gmail.com](mailto:llmvdb2.workshop@gmail.com).
