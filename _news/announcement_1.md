@@ -1,4 +1,3 @@
-
 ---
 layout: post
 date: 2024-09-15 08:26:00-0400
@@ -7,4 +6,3 @@ related_posts: false
 ---
 
 Second LLM + Vector Data Workshop proposal submission.
-
